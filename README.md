@@ -1,1 +1,9 @@
 # PYTHON
+Operator
+IF ELSE
+Loops
+LIST
+ARRAY
+IMPORT
+OOPS
+STAT
