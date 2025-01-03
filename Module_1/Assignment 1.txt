@@ -1,0 +1,50 @@
+In [ ]:
+
+# find the working directory
+
+import os
+os.getcwd()
+
+In [14]:
+
+# change the working directory
+
+os.chdir('D:\\Hari -DS\\Python')
+
+In [15]:
+
+os.getcwd()
+
+Out[15]:
+
+'D:\\Hari -DS\\Python'
+
+In [ ]:
+
+###Problem Statement:  
+#You work in XYZ Corporation as a Data Analyst. Your company has told you to work with the If- 
+#Else Conditions.
+
+#Tasks to be performed: 
+#1. Input the values of a and b as 10 and 20 respectively. Now check if a is greater or b is greater 
+#using if condition. Think about all the edge cases, and print the statements accordingly. 
+
+In [1]:
+
+a = 10
+b = 20
+
+In [7]:
+
+if a > 20:
+    print("a is greater then b")
+    
+else:
+    print("b is greater then a")
+
+b is greater then a
+
+In [ ]:
+
+ 
+
